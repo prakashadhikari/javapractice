@@ -1,0 +1,4 @@
+
+abcd,abcd,Doctor,,Male,,,
+kishan,kishan,Nurse,kishan Luitel,Female,12345,2018-1-1,yes
+naresh,naresh,Doctor,baraili,Male,1234,2017-3-4,yes,2010-2-5
